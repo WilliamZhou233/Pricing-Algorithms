@@ -6,7 +6,8 @@ Input: product data regarding current price, competitor's price, volumn, cost, t
 Output: new price that may maximize profits.
 
 ## Research Project: "Can Algorithm Collude? A Lab Experiment"
-![image](https://github.com/user-attachments/assets/18da913f-358a-47f5-accd-0fd1ab399317)
+### Algorithm and Collusion: a scenario typology
+<img width="842" alt="image" src="https://github.com/user-attachments/assets/d9e748f2-2132-437f-9319-8024875d9f0c">
 
 ### Dataset
 Plan: retrieve various platforms' data about product type, price, volomn, timestamp, etc.
