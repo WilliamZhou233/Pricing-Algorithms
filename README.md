@@ -1,7 +1,7 @@
 # Pricing-Algorithm
 Collecting or Creating pricing algorithms for the research of "Algorithmic Collusion"
 
-Input: product data regarding current price, competitor's price, volumn, cost, time, etc.
+Input: product data regarding current price, competitor's price, volumn, time, etc.
 
 Output: new price that may maximize profits.
 
