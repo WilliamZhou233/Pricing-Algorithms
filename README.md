@@ -17,7 +17,8 @@ Goal: examine whether pricing algorithm using machine learning technology can st
 
 ## Research Project: "Can Algorithm Collude? A Lab Experiment"
 ### Algorithm and Collusion: a scenario typology
-<img width="557" alt="image" src="https://github.com/user-attachments/assets/3d213e87-5a59-4b6a-990b-90ad3b74370c">
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/c1bb2b32-c72f-4e36-a2a9-a09d51e9e9a9">
+
 
 
 
