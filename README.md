@@ -2,15 +2,15 @@
 Collect or design pricing algorithms for the research of "Algorithmic Collusion"
 
 Input:\
-(1) product information regarding type, industry, market structure;\
-(2) historical and current price information among competitors;
+(1) product information regarding type, industry, market structure.\
+(2) historical and current price information among competitors.
        
 Output: new price that can maximize profit.
 
 Methods:\
 (1) select specific product types whose market competition concentrates on price dimension;\
 (2) set different numbers of subjects to simulate different market structure;\
-(3) adopte different pricing strategies referencing to literature in management science;\
+(3) adopt different pricing strategies referencing to literature in management science;\
 (4) use different machine learning algorithms to achieve different strategies.
 
 Goal: examine whether pricing algorithm using machine learning technology can stablize product price in the marketplace.
