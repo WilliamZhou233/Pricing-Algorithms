@@ -1,5 +1,5 @@
 # Pricing-Algorithm
-Collect or desigb pricing algorithms for the research of "Algorithmic Collusion"
+Collect or design pricing algorithms for the research of "Algorithmic Collusion"
 
 Input:\
 (1) product information regarding type, industry, market structure;\
